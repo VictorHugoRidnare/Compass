@@ -14,3 +14,7 @@
     3. CSS diferente para grupos de clientes
 2. Integração com outros pagamentos
 3. Sistema de bônus de primeira compra
+
+### Imagem Local
+
+![Logo do Python](/logo-javascript-1024.png)
