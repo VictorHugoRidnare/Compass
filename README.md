@@ -1,10 +1,10 @@
 # MARKDOWN
-## Lista de linguagens utilizadas no projeto
-    = HTML
-    = CSS
-    = JAVASCRIPT
-    = PHP
-    = MySQL
+## Lista de linguagens utilizadas no projeto:
+* HTML
+* CSS
+* JAVASCRIPT
+* PHP
+* MySQL
 
 ### Funcionalidades a desenvolver:
 
