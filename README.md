@@ -17,4 +17,4 @@
 
 ### Imagem Local
 
-![Logo do Javascript](/javascript.svg)
+![Logo do Javascript](/logo-javascript-256%20(1).png)
