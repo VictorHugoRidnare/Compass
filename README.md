@@ -18,3 +18,12 @@
 ### Imagem Local
 
 ![Logo do Javascript](/logo-javascript-256%20(1).png)
+
+## Código da função soma
+
+``` javascript
+
+function soma(a, b) {
+
+}
+```
