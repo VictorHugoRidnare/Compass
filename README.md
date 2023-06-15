@@ -17,4 +17,4 @@
 
 ### Imagem Local
 
-![Logo do Python](/logo-javascript-256%20(1).png)
+![Logo do Javascript](/javascript.svg)
